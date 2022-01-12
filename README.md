@@ -495,7 +495,6 @@ The derivations and equation in this text are used to generate most of the buckl
 Excellent reference for deriving shell equations.
 
 **Table of Contents (2nd Edition)** 
-
 1. Bending of Long Rectangular Plates to a Cylindrical Surface
 2. Pure Bending of Plates
 3. Symmetrical Bending of Circular Plates
@@ -513,12 +512,7 @@ Excellent reference for deriving shell equations.
 15. General Theory of Cylindrical Shells
 16. Shells Having the Form of a Surface of Revolution and Loaded Symmetrically with Respect to Their Axis
 
-
-
 ## The Unwritten Laws of Engineering (King)
-
 [LINK](https://rotorlab.tamu.edu/me489/README/2010%20ASME%20Unwritten_Laws_of_Enginering.pdf)
-
-
 
 ## Vibration Problems in Engineering (Timoshenko)
