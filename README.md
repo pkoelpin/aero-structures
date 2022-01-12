@@ -27,11 +27,7 @@ Excellent reference for analyzing an aircraft that goes from loads development t
 17. Statically Indeterminate Structures
 18. Special Methods of Analysis
 
-
-
 ## Air Force Stress Analysis Manual (Maddux)
-
-
 
 ## Airframe Stress Analysis and Sizing (Michael C. Y. Niu)
 
@@ -57,8 +53,6 @@ Excellent reference for analyzing an aircraft that goes from loads development t
 16. Structural Salvage and Repairs
 17. Structural Test Setup
 
-
-
 ## Airframe Structural Design (Michael C. Y. Niu)
 
 [PDF](https://air.flyingway.com/books/Airframe-Stuctural-Design.pdf)
@@ -81,11 +75,7 @@ Excellent reference for analyzing an aircraft that goes from loads development t
 14. Advanced Composite Structures
 15. Fatigue, Damage Tolerance and Fail-Safe Design
 
-
-
 ## Airplane Structures Volume I & II (Niles & Newell)
-
-
 
 ## Analysis of Aircraft Structures (Donaldson)
 
@@ -119,19 +109,13 @@ I haven't used this text, but it's available online.
 22. Thin Plate Theory
 23. Elastic and Aeroelastic Instabilities
 
-
-
 ## Analysis and Design of Flight Vehicle Structures (Bruhn)
 
 [PDF](http://www.ihpa.ie/carbon-dragon/images/carbon-dragon/Manuals%20and%20Publications/73%20Bruhn%20analysis%20and%20design%20of%20flight%20vehicles.pdf)
 
-
-
 ## Analysis and Design of Flight Vehicle Structures Supplement (McCombs)
 
 [LINK](https://archive.org/details/BruhnSupplement/mode/2up)
-
-
 
 ## The Analysis of Structures (Nicholas J. Hoff)
 
@@ -149,19 +133,14 @@ A great resource for using hand calculations to get load in a structure. Contain
 
 4. Complementary Energy and the Least-Work Methods
 
-   
 
 ## Composite Airframe Structures (Michael C. Y. Niu)
 
 I don't own this book... yet. It's a great text on practical analysis on composites on an airframe. It will be added to my shelf soon.
 
-
-
 ## Design of Welded Structures (Blodgett)
 
 If you're analyzing something that's welded, pull out Blodgett.
-
-
 
 ## Elasticity: Tensor, Dyadic, and Engineering Approaches (Chou & Pagano)
 
@@ -183,33 +162,19 @@ A good short book on the theory/derivation of elasticity equations. Useful as a 
 12. Orthogonal Curvilinear Coordinates
 13. Displacement Functions and Stress Functions
 
-
-
 ## Finite Element Analysis (Szabo & Babuska)
-
-
 
 ## Finite Elements (T. J. Oden)
 
 Volumes I-VI
 
-
-
 ## The Finite Element Method Volume 1: Basic Formulation and Linear Problems (O. C. Zienkiewicz)
-
-
 
 ## The Finite Element Method Volume 2: Solid and Fluid Mechanics Dynamics and Non-Linearity (O. C. Zienkiewicz)
 
-
-
 ## The Finite Element Method For Engineers (Huebner & Thornton)
 
-
-
 ## Fundamentals of Finite Element Techniques (Brebbia & Connor)
-
-
 
 ## Guide to Stability Design Criteria for Metal Structures (Galambos)
 
@@ -243,19 +208,11 @@ A comprehensive text on stability of metallic structures. Light on the theory be
 
 ## Handbook of Formulas for Stress and Strain (Griffel)
 
-
-
 ## History of Strength of Materials (Timoshenko)
-
-
 
 ## An Introduction to the Design and Behaviors of Bolted Joints (Bickford)
 
-
-
 ## Mathematical Theory of Finite Elements (J. T. Oden & J. N. Reddy)
-
-
 
 ## Mechanical Engineering Design (Shigley)
 
@@ -284,8 +241,6 @@ Excellent reference for analysis of mechanisms . If the structure your analyzing
 17. Flexible Mechanical Elements
 18. Shafts, Axles, and Spindles
 
-
-
 ## Mechanics of Materials (Timoshenko & Gere)
 
 [PDF Brief Edition](http://160592857366.free.fr/joe/ebooks/Mechanical%20Engineering%20Books%20Collection/STRENGTH%20OF%20MATERIALS/MechaMatBreif.pdf)
@@ -306,19 +261,11 @@ Good intro to structural analysis. It won't be too helpful for writing stress re
 10. Columns
 11. Structural Analysis and Energy Methods
 
-
-
 ## Modern Combat Aircraft Design (Huenecke)
-
-
 
 ## Plasticity Theory (Lubliner)
 
-
-
 ## Practical Stress Analysis for Design Engineers (Flabel)
-
-
 
 ## Principles of Composite Material Mechanics (Gibson)
 
@@ -336,8 +283,6 @@ Great reference for the theory behind composite analysis, but not very useful fo
 8. Analysis of Viscoelastic and Dynamic Behavior
 9. Analysis of Fracture
 10. Mechanical Testing of Composites and Their Constituents
-
-
 
 ## Roark's Formulas for Stress and Strain
 
@@ -365,31 +310,19 @@ After Bruhn, this should be the second book on your shelf. Indispensable when it
 16. Dynamic and Temperature STresses
 17. Stress Concentration Factors
 
-
-
 ## Space Vehicle Design (Griffin & French)
 
-
-
 ## Steel Design Manual (Brockenbrough & Johnston)
-
-
 
 ## Strength of Materials: Part 1 Elementary Theory and Problems (Timoshenko)
 
 [PDF](http://www.engineering108.com/Data/Engineering/Mechanical/SM/Strength_Of_Materials_parts_IandII-Timoshenko.pdf)
 
-
-
 ## Strength of Materials: Part 2 Advanced Theory and Problems (Timoshenko)
 
 [PDF](http://www.engineering108.com/Data/Engineering/Mechanical/SM/Strength_Of_Materials_parts_IandII-Timoshenko.pdf)
 
-
-
 ## Stress Concentration Factors (Peterson)
-
-
 
 ## Structural Design of Missiles and Spacecraft (Abraham)
 
@@ -413,8 +346,6 @@ A good resource for an overview of design of rockets/missiles. This reference is
 12. Heat Protection Systems
 13. Reliability
 
-
-
 ## Theory and Analysis of Flight Structures (Rivello)
 
 A standard text on aircraft structures. It has a good mix of theory and practical applications, but other texts (i.e. Bruhn & Peery) are more complete. There is a good chapter on the finite difference method.
@@ -437,8 +368,6 @@ A standard text on aircraft structures. It has a good mix of theory and practica
 14. Primary Bending Instability and Failure of Columns
 15. Instability and Failure of Plates
 16. Instability and Failure of Thin-Walled Columns and Stiffened Plates
-
-
 
 ## Theory of Elasticity (Timoshenko & Goodier)
 
@@ -464,8 +393,6 @@ This is basically the standard text for elasticity theory. Most other books on t
 14. The Propagation of Waves in Elastic Solid Media
 15. The Application of Finite-difference Equation in Elasticity
 
-
-
 ## Theory of Elastic Stability (Timoshenko)
 
 [PDF 2nd Edition](https://structures.dhu.edu.cn/_upload/article/files/c2/53/6997426d46cb8f09fcd5d26175e2/5bcfea4b-34b9-48f7-966b-a74ab5ddae8c.pdf)
@@ -485,8 +412,6 @@ The derivations and equation in this text are used to generate most of the buckl
 9. Buckling of Thin Plates
 10. Bending of Thin Shells
 11. Buckling of Shells
-
-
 
 ## Theory of Plates and Shells (Timoshenko & Krieger)
 
