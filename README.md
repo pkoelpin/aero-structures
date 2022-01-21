@@ -128,12 +128,18 @@ A great resource for using hand calculations to get load in a structure. Contain
 **Table of Contents**
 
 1. The Principle of Virtual Displacements
-
 2. The Minimum of the Total Potential
-
 3. The Calculation of Buckling Loads
-
 4. Complementary Energy and the Least-Work Methods
+
+### Bruhn Errata (Bill Gran)
+
+[PDF](http://www.grancorporation.com/Bruhn_Errata_2nd_Edition_Draft2.pdf)
+
+"This book is a compilation of the mistakes, omissions and typographical errors my teammates and I have
+discovered in the last two decades" -Bill Gran
+
+Section 4.0 "References" has been the most useful for me. Many of the links in the pdf are broken, but there's a lot of good references listed here.
 
 
 ### Composite Airframe Structures (Michael C. Y. Niu)
