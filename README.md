@@ -453,3 +453,8 @@ Excellent reference for deriving shell equations.
 [LINK](https://rotorlab.tamu.edu/me489/README/2010%20ASME%20Unwritten_Laws_of_Enginering.pdf)
 
 ### Vibration Problems in Engineering (Timoshenko)
+
+### NASA Technical Reports Server
+[LINK](https://ntrs.nasa.gov)
+
+Contains many free NASA/NACA reports. Of particular interest is the "Handbook of Structural Stability"
