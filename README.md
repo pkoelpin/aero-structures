@@ -458,3 +458,9 @@ Excellent reference for deriving shell equations.
 [LINK](https://ntrs.nasa.gov)
 
 Contains many free NASA/NACA reports. Of particular interest is the "Handbook of Structural Stability"
+
+## Anisotropic Curved Panel Analysis
+
+[PDF](https://apps.dtic.mil/sti/pdfs/ADA309250.pdf)
+
+Contains FORTRAN program for curved panel analysis
