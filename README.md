@@ -10,6 +10,7 @@
 Excellent reference for analyzing an aircraft that goes from loads development to writing margins. Pick up a copy of the 1st Edition on [Amazon](https://www.amazon.com/Aircraft-Structures-Dover-Aeronautical-Engineering/dp/0486485803). They have a reprint of the 1st edition for about $25. The second edition can found for even cheaper used, but it's not worth it; it's a stripped down version that drops good material from the 1st edition.
 
 **Table of Contents (1st Edition)** 
+
 1. Equilibrium of Forces
 2. Space Structures
 3. Inertia Forces and Load Factors
@@ -464,3 +465,7 @@ Contains many free NASA/NACA reports. Of particular interest is the "Handbook of
 [PDF](https://apps.dtic.mil/sti/pdfs/ADA309250.pdf)
 
 Contains FORTRAN program for curved panel analysis
+
+## On The  Analysis of Anisotropic Rectangular Plates (Whitney)
+
+[PDF](https://apps.dtic.mil/sti/pdfs/AD0776017.pdf)
