@@ -32,6 +32,8 @@ Excellent reference for analyzing an aircraft that goes from loads development t
 
 ### Air Force Stress Analysis Manual (Maddux)
 
+[PDF](https://apps.dtic.mil/sti/pdfs/AD0759199.pdf)
+
 ### Airframe Stress Analysis and Sizing (Michael C. Y. Niu)
 
 [PDF](https://soaneemrana.org/onewebmedia/AIRFRAME%20STRESS%20ANALYSIS%20AND%20SIZING%20BY%20MICHAEL%20C.Y.%20NIU.pdf)
@@ -469,3 +471,8 @@ Contains FORTRAN program for curved panel analysis
 ## On The  Analysis of Anisotropic Rectangular Plates (Whitney)
 
 [PDF](https://apps.dtic.mil/sti/pdfs/AD0776017.pdf)
+
+## National Technical Reports Library
+
+[LINK](https://ntrl.ntis.gov/NTRL/)
+
