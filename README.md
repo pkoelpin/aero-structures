@@ -462,17 +462,21 @@ Excellent reference for deriving shell equations.
 
 Contains many free NASA/NACA reports. Of particular interest is the "Handbook of Structural Stability"
 
-## Anisotropic Curved Panel Analysis
+### Anisotropic Curved Panel Analysis
 
 [PDF](https://apps.dtic.mil/sti/pdfs/ADA309250.pdf)
 
 Contains FORTRAN program for curved panel analysis
 
-## On The  Analysis of Anisotropic Rectangular Plates (Whitney)
+### On The  Analysis of Anisotropic Rectangular Plates (Whitney)
 
 [PDF](https://apps.dtic.mil/sti/pdfs/AD0776017.pdf)
 
-## National Technical Reports Library
+### National Technical Reports Library
 
 [LINK](https://ntrl.ntis.gov/NTRL/)
+
+## Theory of Structures (Timoshenko)
+
+[PDF](https://docs.google.com/file/d/0Bw8MfqmgWLS4RlNqaE1oUzdOajQ/view?resourcekey=0-gu0KE32UXG1nSNwepAnyLQ)
 
