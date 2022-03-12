@@ -476,7 +476,7 @@ Contains FORTRAN program for curved panel analysis
 
 [LINK](https://ntrl.ntis.gov/NTRL/)
 
-## Theory of Structures (Timoshenko)
+### Theory of Structures (Timoshenko)
 
 [PDF](https://docs.google.com/file/d/0Bw8MfqmgWLS4RlNqaE1oUzdOajQ/view?resourcekey=0-gu0KE32UXG1nSNwepAnyLQ)
 
